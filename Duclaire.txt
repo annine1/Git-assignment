@@ -1,0 +1,16 @@
+   74  ls
+   75  git init
+   76  git status
+   77  git add .
+   78  git status
+   79  git commit -m "duclaire"
+   80    git config --global user.email "ennekberline@gmail.com"
+   81  git config --global user.name "annin1"
+   82  git commit -m "duclaire"
+   83  git remote add origin https://github.com/annine1/Git-assignment.git
+   84  git branch -M main
+   85  git push -u origin main
+   86  git push -u origin main
+   87  git push -u origin main
+   88  git push -u origin main
+   89  git push -u origin main
