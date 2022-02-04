@@ -5,12 +5,23 @@
    83  git remote add origin https://github.com/annine1/Git-assignment.git
    84  git branch -M main
    85  git push -u origin main
-   86  git push -u origin main
-   87  git push -u origin main
-   88  git push -u origin main
-   89  git push -u origin main
    90  history > Duclaire.txt
    91  git add .
    92  git commit -m "ammi"
    93  git push
    94  nano Duclaire.txt
+   95  ssh-keygen -o
+   96  cd ~/.ssh
+   97  cat ~/.ssh/id_rsa.pub
+mkdir AMMI-git
+mkdir ADK
+AMMI-first
+touch identity.txt
+git init
+git status
+
+
+ 
+   
+
+
