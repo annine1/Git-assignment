@@ -1,25 +1,24 @@
-   79  git commit -m "duclaire"
-   80    git config --global user.email "ennekberline@gmail.com"
-   81  git config --global user.name "annin1"
-   82  git commit -m "duclaire"
-   83  git remote add origin https://github.com/annine1/Git-assignment.git
-   84  git branch -M main
-   85  git push -u origin main
-   90  history > Duclaire.txt
-   91  git add .
-   92  git commit -m "ammi"
-   93  git push
-   94  nano Duclaire.txt
-   95  ssh-keygen -o
-   96  cd ~/.ssh
-   97  cat ~/.ssh/id_rsa.pub
+git commit -m "duclaire"
+git config --global user.email "ennekberline@gmail.com"
+git config --global user.name "annin1"
+git commit -m "duclaire"
+git remote add origin https://github.com/annine1/Git-assignment.git
+git branch -M main
+git push -u origin main
+history > Duclaire.txt
+git add .
+git commit -m "ammi"
+git push
+nano Duclaire.txt
+ssh-keygen -o
+cd ~/.ssh
+cat ~/.ssh/id_rsa.pub
 mkdir AMMI-git
 mkdir ADK
 AMMI-first
 touch identity.txt
 git init
 git status
-
 
  
    
